@@ -1,2 +1,2 @@
 # math_med
-math/physics undergrad interested in physical oncology
+senior undergraduate interested in mathematical physics

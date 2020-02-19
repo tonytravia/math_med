@@ -1,2 +1,2 @@
-# math_med
+# nino-mp
 senior undergraduate interested in mathematical physics
